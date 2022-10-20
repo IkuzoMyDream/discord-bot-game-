@@ -1,3 +1,5 @@
+#author wildan phidrai-ngam
+#self study project
 import discord
 from discord.ext import commands
 from pistonapi import PistonAPI
